@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">basicRecycler2</string>
+    <string name="bt_nome">Jogar</string>
+    <string name="bt_cadastrar">Salvar</string>
+    <string name="lb_low">Baixo</string>
+    <string name="lb_medium">medio</string>
+    <string name="lb_high">Alto</string>
+    <string name="txt_nome">No entanto, não podemos esquecer que o acompanhamento das preferências de consumo aponta para a melhoria dos conhecimentos estratégicos para atingir a excelência.</string>
+    <string name="txt_desc">Descriçao</string>
+    <string name="txt_titulo">titulo</string>
+    <string name="whats">whats</string>
+    <string name="oi_eu_sou_titulo">oi eu sou titulo</string>
+    <string name="add">TODO</string>
+</resources>
